@@ -1,0 +1,9 @@
+React exercise to create an image slide, where users can view multiple 
+images with next/previous buttons. Additionally, there is also an option 
+to select an image from any index of the list through a click-on option circle.
+
+The following are the steps to create an image slider in React JS:
+
+Declare array of objects with id and image url.
+For pre/next functionality, we decrement/increment count of the index of active image.
+Update active image index with clicked option.

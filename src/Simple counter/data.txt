@@ -1,0 +1,7 @@
+Creating a simple counter using React which increments or decrements count dynamically on-screen as the user clicks on the button. This exercise requires knowledge of fundamental React concepts such as State, Component, etc.
+
+We can complete the simple counter exercise with the following steps:
+
+Create React state to store the count value.
+Declare JS functions to incement or decrement the value through setState().
+Add HTML buttons with onClick to JSX code.

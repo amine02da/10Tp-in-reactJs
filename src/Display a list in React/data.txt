@@ -1,0 +1,9 @@
+React code to print each item from the list on the page using Array.map() 
+function to display each item on the page.
+
+
+The list of items is displayed using React JS through the following steps:
+
+Declare list of items as JS Array.
+Access each item using Array.map()
+Return JSX code in callback function for every item.
